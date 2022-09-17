@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 
 public class HomePageTest {
 	
+	//This is Home page test
 	@Test
 	public void homePage() throws InterruptedException
 	{

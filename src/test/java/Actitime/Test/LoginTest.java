@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 
 public class LoginTest {
 	
+	// this is login page test
 	@Test
 	public void testLogin() throws InterruptedException
 	{
