@@ -1,0 +1,5 @@
+Actitime\Test\pageobj\Homepage.class
+Actitime\Test\Dependency\SynchTest.class
+Actitime\Test\pageobj\Loginpage.class
+Actitime\Test\Lib\TestUtility.class
+Actitime\Test\Dependency\ExcelUtility.class
